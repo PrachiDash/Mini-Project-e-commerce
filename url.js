@@ -1,1 +1,2 @@
-module.exports = 'mongodb+srv://admin:admin@cluster0.jhck93o.mongodb.net/'
+//module.exports = `mongodb://localhost:27017/project`
+module.exports = "mongodb+srv://prachipallabidash:admin@cluster0.rejgdcf.mongodb.net/"
